@@ -3,8 +3,8 @@
 var now = require('performance-now');
 
 /*
-* Babel class constructor
-*/
+ * Babel class constructor boilerplate (just copied verbatim from transpiled Babel code)
+ */
 var _createClass = function() {
     function defineProperties(target, props) {
         for (var i = 0; i < props.length; i++) {
@@ -28,6 +28,9 @@ function _classCallCheck(instance, Constructor) {
     }
 }
 
+/*
+ * Transpiled Babel class constructor
+ */
 var SomeClass = function() {
     function SomeClass(name) {
         _classCallCheck(this, SomeClass);
@@ -48,8 +51,8 @@ var SomeClass = function() {
 }();
 
 /*
-* Basic JavaScript Object creator/initializer
-*/
+ * Basic JavaScript Object creator/initializer
+ */
 var SomeObj = {
     create: function(name) {
         return Object.create(this).init(name);
@@ -66,8 +69,8 @@ var SomeObj = {
 };
 
 /*
-* Basic JavaScript constructor function using a closure
-*/
+ * Basic JavaScript constructor function using a closure
+ */
 var GreetFunc = function(name) {
 
     var greeting = 'Hello';
@@ -140,6 +143,5 @@ var res = [
 
 res
     .forEach(function(str) {
-
         console.log(str);
     });
