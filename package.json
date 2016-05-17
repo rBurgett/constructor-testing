@@ -1,0 +1,22 @@
+{
+  "name": "constructor-testing",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Ryan Burgett",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "performance-now": "^0.2.0"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rBurgett/constructor-testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rBurgett/constructor-testing/issues"
+  },
+  "homepage": "https://github.com/rBurgett/constructor-testing#readme",
+}
