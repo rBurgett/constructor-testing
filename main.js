@@ -79,6 +79,9 @@ var GreetFunc = function(name) {
 
 };
 
+/*
+ * Traditional constructor function with properties and methods added directly to the prototype
+ */
 var GreetConstructor = function(name) {
     this.name = name;
 };
