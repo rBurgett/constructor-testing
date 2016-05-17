@@ -10,7 +10,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "performance-now": "^0.2.0"
-},
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rBurgett/constructor-testing.git"
@@ -18,5 +18,5 @@
   "bugs": {
     "url": "https://github.com/rBurgett/constructor-testing/issues"
   },
-  "homepage": "https://github.com/rBurgett/constructor-testing#readme",
+  "homepage": "https://github.com/rBurgett/constructor-testing#readme"
 }
